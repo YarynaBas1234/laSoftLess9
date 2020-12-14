@@ -1,0 +1,12 @@
+#main-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* .inp-box{
+    
+} */
+.inp{
+    width: 200px;
+    padding: 5px;
+}
